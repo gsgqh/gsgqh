@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi everyone 👋
+
+### Introduce
+
+我是来自福州大学22级计算机类专业的学生
 
 <!--
 **gsgqh/gsgqh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
